@@ -1,4 +1,3 @@
-
 # Store  word meanings in a python dictionary:
 dictionary = {
   "Cybersecurity":"Protecting systems and data from attacks",
